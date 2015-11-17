@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/rc-car/img">
+        <file>car.png</file>
+        <file>satview.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
